@@ -1,0 +1,13 @@
+# Ignore compiled files
+*.class
+*.jar
+*.pyc
+*.exe
+
+# Ignore build directories
+target/
+dist/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
